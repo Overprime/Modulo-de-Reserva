@@ -1,0 +1,38 @@
+
+
+#tabla-cabecera  th ,td{
+
+font-size: 8px;
+
+}
+
+
+#tabla-detalle  th ,td{
+
+font-size: 8px;
+
+}
+
+#tabla-comentario  th ,td{
+
+font-size: 8px;
+
+}
+
+span  {
+
+
+
+font-size: 30px;
+
+}
+
+
+th.cabeceralistados {
+height: 24px;
+line-height: 24px;
+color: navy;
+background-color: #99ccff;
+text-align: center;
+vertical-align: middle;
+}

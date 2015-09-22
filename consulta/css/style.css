@@ -1,0 +1,14 @@
+input, select{
+   /*background:#fff;*/
+   border:1px solid #2E9AFE;
+   padding:5px;
+   border-radius: 5px
+};
+
+
+
+th {
+
+
+	border-radius: 5px;
+}
